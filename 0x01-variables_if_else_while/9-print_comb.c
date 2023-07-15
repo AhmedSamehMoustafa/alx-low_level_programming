@@ -4,7 +4,6 @@
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
 	int num;
@@ -15,6 +14,7 @@ int main(void)
 		if (num == 9)
 			continue;	
 		putchar(',');
+
 		putchar(' ');
 	}
 
