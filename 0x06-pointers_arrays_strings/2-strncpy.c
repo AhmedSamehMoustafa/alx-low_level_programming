@@ -3,7 +3,7 @@
  * _strncpy - copy a string
  * @dest: input value
  * @src: input value
- * @n: input value
+ 9* @n: input value
  *
  * Return: dest
  */
@@ -25,4 +25,4 @@ char *_strncpy(char *dest, char *src, int n)
 
 	return (dest);
 }
-
+char a:
